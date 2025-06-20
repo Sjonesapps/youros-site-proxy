@@ -1,0 +1,46 @@
+Sitemap: https://www.youros.app/sitemap.xml
+# External robots.txt hosted on Drive:
+robots: https://drive.google.com/uc?export=download&id=1KH6o9oOTmD3bwDzd73DOQLNEMuxIcGKr
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://www.youros.app/</loc>
+    <lastmod>2025-06-19T04:35:47+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://www.youros.app/youros-home</loc>
+    <lastmod>2025-06-19T04:35:47+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.youros.app/what-does-youros-do</loc>
+    <lastmod>2025-06-19T04:35:47+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.youros.app/what-does-youros-do/stories-and-testimony</loc>
+    <lastmod>2025-06-19T04:35:47+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.youros.app/security-trust</loc>
+    <lastmod>2025-06-19T04:35:47+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.youros.app/lets-talk-ai</loc>
+    <lastmod>2025-06-19T04:35:47+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.youros.app/pricing-competitors</loc>
+    <lastmod>2025-06-19T04:35:47+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+</urlset>
